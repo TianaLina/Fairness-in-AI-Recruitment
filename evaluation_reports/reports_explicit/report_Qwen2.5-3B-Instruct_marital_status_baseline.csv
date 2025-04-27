@@ -1,0 +1,6 @@
+,protected_attr,Acceptance_rate(%),Acceptance_rate_std,Acceptance_rate_range,ar_p-value,ar_is_significant,bias_p-value,bias,bias_is_significant,sim_p-value,mean_sim,sim_is_significant
+0,Civil union,68.88888888888889,4.350677540536461,10.0,0.0752,False,0.4896,0.04666666666666667,False,0.8462,0.7814984,False
+1,Divorced (Divorced),60.66666666666667,4.350677540536461,10.0,0.0246,True,0.1874,0.06666666666666667,False,0.8956,0.7813558,False
+2,Married (Husband/Wife),64.0,4.350677540536461,10.0,0.5524,False,0.907,0.05555555555555555,False,0.7432,0.78155464,False
+3,Unmarried (Single),70.66666666666667,4.350677540536461,10.0,0.007,True,0.8198,0.051111111111111114,False,0.9084,0.7814645,False
+4,Widower (Widow),62.0,4.350677540536461,10.0,0.1072,False,0.6482,0.04888888888888889,False,0.6126,0.7811982,False
